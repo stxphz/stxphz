@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Stephanie! 
+### Hi, I’m Stephanie! 
 
 <p align='left'>I am a junior data analyst with a background in architectural design, leveraging my experience from a comprehensive coding bootcamp to transform complex data into actionable insights that drive strategic decision-making.
 My skills include business analytics, data visualization, and storytelling with proficiency in SQL, Python, and Tableau. These combined abilities allow me to deliver data-driven solutions, identify trends, and optimize company performance. 
