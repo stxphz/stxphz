@@ -6,7 +6,7 @@ My skills include business analytics, data visualization, and storytelling with 
 
 
 
-<h3 align="left">Let's Connect!:</h3>
+<h3 align="left">Let's Connect!</h3>
 <a href="https://linkedin.com/in/stephanie-zeng-863664271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephanie-zeng-863664271" height="30" width="40" /></a>
 <a href="https://kaggle.com/stephzeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="stephzeng" height="30" width="40" /></a>
 </p>
