@@ -1,7 +1,7 @@
 ### Hi, I’m Stephanie! 
 
 <p align='left'>
-I am a Data Analyst with a Design Edge, blending analytical prowess with design sensibility. I have a background in Architecture & Design that uniquely enhances data analysis by integrating strong visualization skills, meticulous attention to detail, and a user-centric approach. 
+I am a Data Analyst with a Design Edge, blending analytical expertise with design sensibility. I have a background in Architecture & Design that uniquely enhances data analysis by integrating strong visualization skills, meticulous attention to detail, and a user-centric approach. 
 My background fosters creative problem-solving abilities and enriches insights with cross-disciplinary perspectives, transforming raw data into actionable insights that elevate both form and function across diverse industries. My skills include business analytics, data visualization, and storytelling with proficiency in SQL, Python, and Tableau. These combined abilities allow me to deliver data-driven solutions, identify trends, and optimize company performance. 
 </p>
 
